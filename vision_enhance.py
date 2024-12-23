@@ -11,7 +11,7 @@ def is_process_running(process_name):
 
 
 # Now keep zoom from opening
-processes = ["zoom"]
+processes = ["zoom","FaceTime","WhatsApp","Skype","Telegram"]
 
 while True:
     for process in processes:
