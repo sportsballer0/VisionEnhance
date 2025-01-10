@@ -84,7 +84,7 @@
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>F3DDFF21-E001-4326-9FE3-5B5E3123E3CC</string>
+				<string>C6B10921-7F51-425D-88C2-EAA5B03E2514</string>
 				<key>Keywords</key>
 				<array>
 					<string>Shell</string>
@@ -94,9 +94,9 @@
 					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>255BBE05-DCB0-40FA-BEE7-EE2E2D6AA526</string>
+				<string>089395EE-025C-41EA-8D4B-56FF63879D6B</string>
 				<key>UUID</key>
-				<string>206666CD-9732-482B-BDD6-007E401A64A6</string>
+				<string>FF7A0CA2-D2AB-4189-BEAC-FDE44494DB7C</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
@@ -169,6 +169,8 @@
 						<string>4</string>
 					</dict>
 				</dict>
+				<key>conversionLabel</key>
+				<integer>0</integer>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
